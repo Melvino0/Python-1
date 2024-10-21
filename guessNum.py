@@ -13,7 +13,7 @@ while (numofguesses > 0):
     print("you guessed")
     print(guess)
 
-numofguesses -= 1
+    numofguesses -= 1
 
     #Kolla om siffran är större, mindre eller lika
 
